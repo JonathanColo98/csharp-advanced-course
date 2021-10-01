@@ -1,0 +1,10 @@
+C:\workspaceC-Sharp\AccessModifierDemo\AccessModifierDemo_End\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\workspaceC-Sharp\AccessModifierDemo\AccessModifierDemo_End\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\workspaceC-Sharp\AccessModifierDemo\AccessModifierDemo_End\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\workspaceC-Sharp\AccessModifierDemo\AccessModifierDemo_End\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\workspaceC-Sharp\AccessModifierDemo\AccessModifierDemo_End\ConsoleUI\bin\Debug\DemoLibrary.pdb
+C:\workspaceC-Sharp\AccessModifierDemo\AccessModifierDemo_End\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\workspaceC-Sharp\AccessModifierDemo\AccessModifierDemo_End\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\workspaceC-Sharp\AccessModifierDemo\AccessModifierDemo_End\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\workspaceC-Sharp\AccessModifierDemo\AccessModifierDemo_End\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\workspaceC-Sharp\AccessModifierDemo\AccessModifierDemo_End\ConsoleUI\obj\Debug\ConsoleUI.pdb
